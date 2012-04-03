@@ -2,7 +2,7 @@
 var number_of_pairs = 1;
 var before_number_of_pairs = 0;
 
-while( month < 12 ){
+while( month < 24 ){
 
 	var b = before_number_of_pairs;
 
